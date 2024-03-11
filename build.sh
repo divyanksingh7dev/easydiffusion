@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 printf "Hi there, what you are running is meant for the developers of this project, not for users.\n\n"
 printf "If you only want to use Easy Diffusion, you've downloaded the wrong file.\n"
