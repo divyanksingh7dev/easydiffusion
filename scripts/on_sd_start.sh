@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 cp sd-ui-files/scripts/functions.sh scripts/
 cp sd-ui-files/scripts/on_env_start.sh scripts/
